@@ -1,2 +1,2 @@
 # Sites
-Sites repo
+Sites repo for git demonstration
